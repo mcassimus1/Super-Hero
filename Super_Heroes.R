@@ -14,3 +14,23 @@ str(info)
 heroes <- merge(info, powers, by = "name" )
 str(heroes)
 
+#removing the column of numbers that don't mean anything
+heroes <- heroes[, -2]
+str(heroes)
+
+
+#EDA
+hist(heroes$Weight, col = "blue", main = "Histogram of Weight", xlab = "Weight")
+boxplot(heroes$Weight, col = "blue", main = "Boxplot of Weight")
+
+hist(heroes$Height, col = "red", main = "Histogram of Height", xlab = "Height")
+boxplot(heroes$Height, col = "red", main = "Boxplot of Height")
+
+table(heroes$Alignment)
+table(heroes$Alignment, heroes$Publisher)
+
+
+
+
+
+

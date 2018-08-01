@@ -1,5 +1,6 @@
 library(ggplot2)
 library(dplyr)
+library(e1071)
 
 
 setwd("/Users/MorganSwaney/Desktop/Practicum 2")
@@ -28,6 +29,15 @@ boxplot(heroes$Height, col = "red", main = "Boxplot of Height")
 
 table(heroes$Alignment)
 table(heroes$Alignment, heroes$Publisher)
+
+
+#Creating the classification model
+nb.class <- naiveBayes(Alignment ~ ., data = heroes[8:176])
+nb.class
+
+#Making the prediction
+nb.prediction <- predict(nb.class, heroes)
+table(nb.prediction, heroes$Alignment)
 
 
 

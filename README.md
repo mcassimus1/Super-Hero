@@ -27,8 +27,7 @@ As I was moving through the exploratory data analysis I found some data items in
 
 ### Classification 
 Now the data is clean and I’ve explored the data I moved on the classification model. I choose to do a Navie Bayes classification because I assumed the data would be noisy and this model can still work well with a noisy data set. I created a simple model and predications and found my model has a 78% accuracy rate. While this level of an accuracy rate is not the best for classifying the alignment of super heroes I feel pretty comfortable with it. 
-
-
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Confusion%20Matrix.png)
 
 ## Conclusion
 After exploring the data and running a Navie Bayes classification model I was able to predict the alignment, good or bad, of a super hero with 78% accuracy. Over all I feel confident in my model and have enjoyed working with such fun data.  

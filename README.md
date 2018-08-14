@@ -1,4 +1,5 @@
-# Super-Heroes ![alt text] (https://github.com/mcassimus1/Super-Hero/blob/master/POW.jpg)
+# Super-Heroes 
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/POW.jpg)
 
 ## Introduction
 For the project I will be working with a super hero data set I found on Kaggle. This data set is two files. The first is demographic information about the super heroes such as publishers, race, and gender. The other is over 160 powers which the heroes might possess. 

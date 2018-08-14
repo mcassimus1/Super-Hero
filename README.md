@@ -31,3 +31,4 @@ Now the data is clean and I’ve explored the data I moved on the classification
 
 ## Conclusion
 After exploring the data and running a Navie Bayes classification model I was able to predict the alignment, good or bad, of a super hero with 78% accuracy. Over all I feel confident in my model and have enjoyed working with such fun data.  
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Zap.jpg)

@@ -16,8 +16,9 @@ I began working with the data in Tableau since the data is completely categorica
 ![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Tableau%20Images/Most%20Common%20Powers.png)
 
 Next I looked at the alignment of the super heroes to understand the balance between good and bad. The majority of the super heroes are good. 
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Tableau%20Images/Alignment.png)
 
-Then I looked at the publisher breakdown, hair color, eye color, gender, race, skin color, and heights and weights. To see all the images, visit the Tableau images folder. 
+Then I looked at the publisher breakdown, hair color, eye color, gender, race, skin color, and heights and weights. To see all the images, visit the [Tableau images folder.]() 
 
 Once I had completed my EDA in Tableau I moved to R to look at height and weight in different views
 

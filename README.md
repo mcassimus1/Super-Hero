@@ -13,6 +13,7 @@ I will be answering the following questions
 
 ### Exploratory Data Analysis 
 I began working with the data in Tableau since the data is completely categorical and Tableau is a great visualization tool for categorical data. I first pivoted the data to find what the most common super power is. Super strength and stamina are the most common powers for a super hero to possess. 
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Tableau%20Images/Most%20Common%20Powers.png)
 
 Next I looked at the alignment of the super heroes to understand the balance between good and bad. The majority of the super heroes are good. 
 

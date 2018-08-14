@@ -18,7 +18,7 @@ I began working with the data in Tableau since the data is completely categorica
 Next I looked at the alignment of the super heroes to understand the balance between good and bad. The majority of the super heroes are good. 
 ![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Tableau%20Images/Alignment.png)
 
-Then I looked at the publisher breakdown, hair color, eye color, gender, race, skin color, and heights and weights. To see all the images, visit the [Tableau images folder.]() 
+Then I looked at the publisher breakdown, hair color, eye color, gender, race, skin color, and heights and weights. To see all the images, visit the [Tableau images folder.](https://github.com/mcassimus1/Super-Hero/tree/master/Tableau%20Images) 
 
 Once I had completed my EDA in Tableau I moved to R to look at height and weight in different views
 
@@ -27,6 +27,8 @@ As I was moving through the exploratory data analysis I found some data items in
 
 ### Classification 
 Now the data is clean and I’ve explored the data I moved on the classification model. I choose to do a Navie Bayes classification because I assumed the data would be noisy and this model can still work well with a noisy data set. I created a simple model and predications and found my model has a 78% accuracy rate. While this level of an accuracy rate is not the best for classifying the alignment of super heroes I feel pretty comfortable with it. 
+
+
 
 ## Conclusion
 After exploring the data and running a Navie Bayes classification model I was able to predict the alignment, good or bad, of a super hero with 78% accuracy. Over all I feel confident in my model and have enjoyed working with such fun data.  

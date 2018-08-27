@@ -23,11 +23,11 @@ Then I looked at the publisher breakdown, hair color, eye color, gender, race, s
 Once I had completed my EDA in Tableau I moved to R to look at height and weight in different views and to explore the relationship between publisher and alignment.
 
 Here are my boxplots of height and weight. I wanted to see the ranges and to look at possible outliers.
-![alt text]https://github.com/mcassimus1/Super-Hero/blob/master/Boxplot%20Height.png
-![alt text]https://github.com/mcassimus1/Super-Hero/blob/master/Boxplot%20Weight.png
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Boxplot%20Height.png)
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Boxplot%20Weight.png)
 
 I then created a table of alignment and publisher to see if some publishers had more bad or good superheroes. 
-![alt text]https://github.com/mcassimus1/Super-Hero/blob/master/Alignment%20and%20Publisher%20Table.png
+![alt text](https://github.com/mcassimus1/Super-Hero/blob/master/Alignment%20and%20Publisher%20Table.png)
 
 ### Data Clean Up
 As I was moving through the exploratory data analysis I found some data items in the demographics file that needed some cleaning. This was simple such as grouping eye color and hair color. Other than this the data is very clean and didn’t require any extra cleaning steps. 
